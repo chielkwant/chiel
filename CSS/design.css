@@ -1,5 +1,5 @@
-body {
-  background-color: lightblue;
+body
+{background-image: url("https://images.performgroup.com/di/library/GOAL/f3/4/lionel-messi-barcelona-2019-20_16ks0znl58amk1kfrldq3l5sj3.jpg?t=1572064900&quality=100")
 }
 
 h1 {
@@ -10,4 +10,8 @@ h1 {
 p {
   font-family: verdana;
   font-size: 20px;
+  background-color:black;
+  color:white;
+  margin:20px;
+  padding:20px;
 }
